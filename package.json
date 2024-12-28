@@ -1,0 +1,25 @@
+{
+  "name": "hero-quotes",
+  "version": "1.0.0",
+  "description": "Read quote, become better",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcjod/hero-quotes.git"
+  },
+  "keywords": [
+    "hero-quotes"
+  ],
+  "author": "Krishna Chaitanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcjod/hero-quotes/issues"
+  },
+  "homepage": "https://github.com/kcjod/hero-quotes#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
