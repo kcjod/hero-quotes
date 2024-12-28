@@ -55,4 +55,3 @@ If you encounter any bugs or issues, please feel free to report them on the [Git
 ## Repository
 
 - [GitHub Repository](https://github.com/kcjod/hero-quotes)
-```
